@@ -1,5 +1,5 @@
 =============================================================
-Building Instructions:
+Build Instructions:
 -----------------------
 1. Open AndroidStudio (developed on AndroidStudio 2.3.1)
 2. Click on "Import project" and navigate to TiltMenu
@@ -24,8 +24,8 @@ The prototype is fairly simple to execute. It consists of four screens:
 3. Four-Zone menu model variant
 4. Survey screen
 
-1. The prototype begins with the Main Screen where the person conducting the study would have enter Participant ID and Trial Number before selecting
-Two-Zone or Four-Zone.
+Steps to run prototype:
+1. The prototype begins with the Main Screen where the person conducting the study would have enter Participant ID and Trial Number before selecting Two-Zone or Four-Zone.
 2. Ensure the phone is strapped to the participant before selecting either of the options, and their hand is stretched straight out.
 3. Tap Two-Zone or Four-Zone
 4. The subsequent screen will display the model variant with menu options. The option the user needs to navigate to is displayed at the bottom of the screen
@@ -35,7 +35,7 @@ Two-Zone or Four-Zone.
 8. For each model variant per trial, the prototype asks the user to navigate to 8 options in a random manner.
 9. After each trial, the prototype switches back to main screen for the conductor to enter trial number and select Two-Zone / Four-Zone variant
 10. After the study, the conductor may tap on 'Survey' on the main screen after entering a participant ID.
-11, On the following screen, the user rates the two variants on a Likert 7-point scale and mentions which of the two they found better.
+11. On the following screen, the user rates the two variants on a Likert 7-point scale and mentions which of the two they found better.
 12. the user then taps on 'Submit' and the responses are recorded.
 13. The data (survey and user performance) are saved in comman separated values (csv) format at the following location:
 "/storage/emulated/0/Documents/TiltMenu"
