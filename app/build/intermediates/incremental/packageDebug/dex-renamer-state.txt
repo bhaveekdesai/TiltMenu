@@ -1,0 +1,7 @@
+#Mon May 08 15:48:23 EDT 2017
+base.0=/home/bhaveekdesai/AndroidStudioProjects/TiltMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a0fe2fb5e2dc90f6a4628189ed3f9fb929ac6360
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/bhaveekdesai/AndroidStudioProjects/TiltMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9787f184facaaaa90e8b97fd77e2ed18964208ed/classes.dex
+base.1=/home/bhaveekdesai/AndroidStudioProjects/TiltMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9787f184facaaaa90e8b97fd77e2ed18964208ed
+file.0=/home/bhaveekdesai/AndroidStudioProjects/TiltMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_a0fe2fb5e2dc90f6a4628189ed3f9fb929ac6360/classes.dex

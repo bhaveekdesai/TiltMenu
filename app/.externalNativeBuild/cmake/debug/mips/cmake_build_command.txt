@@ -1,0 +1,15 @@
+Executable : /home/bhaveekdesai/Android/Sdk/cmake/3.6.3155560/bin/cmake
+arguments : 
+-H/home/bhaveekdesai/AndroidStudioProjects/TiltMenu/app
+-B/home/bhaveekdesai/AndroidStudioProjects/TiltMenu/app/.externalNativeBuild/cmake/debug/mips
+-GAndroid Gradle - Ninja
+-DANDROID_ABI=mips
+-DANDROID_NDK=/home/bhaveekdesai/Android/Sdk/ndk-bundle
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/bhaveekdesai/AndroidStudioProjects/TiltMenu/app/build/intermediates/cmake/debug/obj/mips
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_MAKE_PROGRAM=/home/bhaveekdesai/Android/Sdk/cmake/3.6.3155560/bin/ninja
+-DCMAKE_TOOLCHAIN_FILE=/home/bhaveekdesai/Android/Sdk/ndk-bundle/build/cmake/android.toolchain.cmake
+-DANDROID_PLATFORM=android-21
+-DCMAKE_CXX_FLAGS=-frtti -fexceptions
+jvmArgs : 
+
