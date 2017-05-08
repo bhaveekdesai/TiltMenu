@@ -1,4 +1,4 @@
-====================================================================
+=============================================================
 Building Instructions:
 -----------------------
 1. Open AndroidStudio (developed on AndroidStudio 2.3.1)
@@ -14,7 +14,7 @@ Building Instructions:
 7. Please check your internal home folder. Create an empty directory - 'Documents' if not already present by default.
 8. We're ready to rock!
 
-====================================================================
+=============================================================
 Prototype Instructions:
 -----------------------
 
